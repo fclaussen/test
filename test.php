@@ -1,5 +1,6 @@
-<?php $test = 'ahhh';
+<?php
+$test = 'ahhh';
 
-if(){
-echo $test;
+if( $test ) {
+  echo $test;
 }
